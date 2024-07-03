@@ -8,7 +8,7 @@ O objetivo deste projeto foi analisar os dados do Banco e apresentar as vantagen
 
 ## 1 – Modelagem de Dados
 
-A modelagem de dados foi construída para agregar informações críticas dos clientes como transações e registros das propostas de crédito. Detalhes sobre as premissas e suposições adotadas na análise estão disponíveis no [Jupyter Notebook](https://github.com/larixgomex/LH_AD_LARISSAGOMESDESANTANNA/blob/main/LH_AD_LARISSAGOMESDESANTANNA.ipynb). 
+A modelagem de dados foi construída para agregar informações críticas dos clientes como transações e registros das propostas de crédito. Detalhes sobre as premissas e suposições adotadas na análise estão disponíveis no [Google Colab](https://github.com/larixgomex/LH_AD_LARISSAGOMESDESANTANNA/blob/main/LH_AD_LARISSAGOMESDESANTANNA.ipynb). 
 
 
 ## 2 - Dashboard
