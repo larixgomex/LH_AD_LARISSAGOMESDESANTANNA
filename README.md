@@ -15,7 +15,7 @@ A modelagem de dados foi construída para agregar informações críticas dos cl
 
 Para um monitoramento eficaz e insights em tempo real, foi desenvolvido um dashboard operacional:
 
-1. O design interativo do dashboard está disponível no [Tableau Public]'(https://public.tableau.com/views/wip_LH/Dashboard1?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link).
+1. O design interativo do dashboard está disponível no [Tableau Public](https://public.tableau.com/views/wip_LH/Dashboard1?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link).
 2. Uma versão em PDF do dashboard pode ser descarregada ao clicar em "Download PDF", sendo ideal para apresentações executivas e reuniões de discussões acerca de métricas.
 
 
